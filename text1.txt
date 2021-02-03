@@ -2,5 +2,6 @@
 This is the first line of exercise 1.
 This is the second line.
 This is the third line.
+This is the fourth line.
 =======
 >>>>>>> parent of 8d3a033... Added three lines to text1.txt
